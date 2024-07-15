@@ -1,0 +1,71 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.255" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/arrow_down_background.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/background1_fore.xml" value="0.229" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/background3.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style1.xml" value="0.255" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_bottom_option.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_forestgreen.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_honeydew.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_off.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_peachpuff.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_purple.xml" value="0.2365" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/button_style_springgreen.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/chat_frame.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/chat_frame1.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/chat_frame2.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/chatting_background.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/edit_text_fram.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/green_frame.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/hall_background.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/homepage.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/ic_create.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/ic_homepage.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/ic_launcher_background.xml" value="0.255" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/key_button_icon.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/light_gray_frame.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/member_list_1.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/member_notification.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/member_notification_frame.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/nameplate.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/nameplate1.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/nameplate2.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/option_button_frame.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/orange_frame.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/paper_plane.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/red_frame.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/refresh_icon.xml" value="0.149" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/round_square_frame_white.xml" value="0.2365" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/sticker_choose_non_click_pattern.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/sticker_choose_on_click_pattern.xml" value="0.245" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/switch_style_blue.xml" value="0.2365" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/switch_thumb.xml" value="0.2365" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/swtich_track.xml" value="0.2365" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/title_frame.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/drawable/white_foreground.xml" value="0.244" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout-v23/activity_chatting.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout-v26/activity_chatting.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_chatting.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_create.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_error_initiator.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_homepage.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_join.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/activity_name.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/android_manifet.xml" value="0.12132725430597771" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/layout/lobby.xml" value="0.264" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2365" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/Line/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2365" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

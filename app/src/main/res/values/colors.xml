@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lavender">#E6E6FA</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="indian_red">#CD5C5C</color>
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="sky_blue">#42A5F5</color>
+    <color name="crimson">#DC143C</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="dim_gray">#696969</color>
+    <color name="spring_green">#00FF7F</color>
+    <color name="dark">#161616</color>
+    <color name="yellow">#f4d03f</color>
+    <color name="peach_puff">#FFDAB9</color>
+    <color name="transparent">#00000000</color>
+    <color name="shadow">#C0000000</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="light_blue">#BBDEFB</color>
+    <color name="green">#66BB6A</color>
+    <color name="yellow_orange">#F5B041</color>
+    <color name="blue">#008FFF</color>
+    <color name="gray">#99A3A4</color>
+    <color name="purple">#AF7AC5</color>
+    <color name="orange_red">#EC7063</color>
+</resources>

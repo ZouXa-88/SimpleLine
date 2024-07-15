@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Line</string>
+
+    <string name="what_is_your_name">請輸入名稱</string>
+    <string name="type_name_message">你的朋友會以此來辨識你</string>
+    <string name="your_name">名稱</string>
+    <string name="empty_name">*空白</string>
+    <string name="over_length">最多10的字元</string>
+    <string name="submit">確定</string>
+
+    <string name="hello">哈囉,\u0020</string>
+    <string name="create_new">新群組</string>
+    <string name="join_current">加入群組</string>
+    <string name="connecting">連線中</string>
+    <string name="input_id">輸入現有群組代碼</string>
+    <string name="id_history">輸入紀錄</string>
+    <string name="connect_error">無法連線</string>
+    <string name="dot">.</string>
+    <string name="leave_app">離開?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="setting">設定</string>
+    <string name="rename">重新輸入名稱</string>
+    <string name="vibration">震動</string>
+
+    <string name="message_hint">在此輸入訊息</string>
+    <string name="id_hint">此代碼可能會因成員退出而有所更動</string>
+    <string name="id_notation">查看群組代碼</string>
+    <string name="join">加入群組</string>
+    <string name="leave">退出群組</string>
+    <string name="leave_check">再按一次"返回鍵"離開</string>
+
+</resources>

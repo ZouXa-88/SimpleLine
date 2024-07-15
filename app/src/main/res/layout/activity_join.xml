@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:noHistory = "true"
+    android:background="@drawable/background3"
+    android:onClick="backgroundClick"
+    tools:context=".JoinActivity"
+    tools:ignore="UsingOnClickInXml">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/input_id_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/input_id_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="180dp"
+            android:text="@string/input_id"
+            android:textSize="30sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"/>
+
+        <EditText
+            android:id="@+id/id_1"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="3"
+            android:gravity="center"
+            app:layout_constraintEnd_toStartOf="@+id/dot_1"
+            app:layout_constraintTop_toTopOf="@+id/dot_2"
+            app:layout_constraintBottom_toBottomOf="@+id/dot_2"/>
+
+        <TextView
+            android:id="@+id/dot_1"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="@string/dot"
+            android:gravity="center"
+            app:layout_constraintEnd_toStartOf="@+id/id_2"
+            app:layout_constraintTop_toTopOf="@+id/dot_2"
+            app:layout_constraintBottom_toBottomOf="@+id/dot_2"/>
+
+        <EditText
+            android:id="@+id/id_2"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="3"
+            android:gravity="center"
+            app:layout_constraintEnd_toStartOf="@+id/dot_2"
+            app:layout_constraintTop_toTopOf="@+id/dot_2"
+            app:layout_constraintBottom_toBottomOf="@+id/dot_2"/>
+
+        <TextView
+            android:id="@+id/dot_2"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/dot"
+            android:gravity="center"
+            app:layout_constraintTop_toBottomOf="@+id/input_id_message"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:flow_horizontalBias="0.5"/>
+
+        <EditText
+            android:id="@+id/id_3"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="3"
+            android:gravity="center"
+            app:layout_constraintStart_toEndOf="@+id/dot_2"
+            app:layout_constraintTop_toTopOf="@+id/dot_2"
+            app:layout_constraintBottom_toBottomOf="@+id/dot_2"/>
+
+        <TextView
+            android:id="@+id/dot_3"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="@string/dot"
+            android:gravity="center"
+            app:layout_constraintStart_toEndOf="@+id/id_3"
+            app:layout_constraintTop_toTopOf="@+id/dot_2"
+            app:layout_constraintBottom_toBottomOf="@+id/dot_2"/>
+
+        <EditText
+            android:id="@+id/id_4"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="number"
+            android:maxLength="3"
+            android:gravity="center"
+            app:layout_constraintStart_toEndOf="@+id/dot_3"
+            app:layout_constraintTop_toTopOf="@+id/dot_2"
+            app:layout_constraintBottom_toBottomOf="@+id/dot_2"/>
+
+        <Button
+            android:id="@+id/id_history_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/id_history"
+            android:background="@color/yellow"
+            android:onClick="idHistoryButtonClick"
+            app:layout_constraintBottom_toTopOf="@+id/id_summit_button"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/id_summit_button"
+            app:layout_constraintTop_toBottomOf="@id/dot_2"
+            app:layout_constraintVertical_bias="0.7"
+            tools:ignore="UsingOnClickInXml" />
+
+        <Button
+            android:id="@+id/id_summit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="@string/submit"
+            android:onClick="idSummitButtonClick"
+            android:background="@drawable/button_style_off"
+            android:clickable="false"
+            app:layout_constraintTop_toBottomOf="@+id/dot_2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            tools:ignore="UsingOnClickInXml" />
+
+        <TextView
+            android:id="@+id/connecting_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/connecting"
+            android:textSize="15sp"
+            android:visibility="invisible"
+            app:layout_constraintTop_toBottomOf="@+id/id_summit_button"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintVertical_bias="0.2"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/id_history_layout"
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:background="@color/shadow"
+        android:visibility="invisible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:overScrollMode="never"
+            android:scrollbarThumbVertical="@color/blue">
+
+            <LinearLayout
+                android:id="@+id/id_history_linear_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+        </ScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
